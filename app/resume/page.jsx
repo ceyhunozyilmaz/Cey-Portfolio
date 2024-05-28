@@ -32,7 +32,7 @@ const about = {
       link: "mailto:ceyhunozylmaz14@hotmail.com",
     },
     {
-      fieldName: "Freekance",
+      fieldName: "Freelance",
       fieldValue: "Available",
     },
     {
